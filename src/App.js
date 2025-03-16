@@ -12,6 +12,8 @@ import Mode from './theme/mode';
 import { useSelector } from 'react-redux';
 // import { CSSTransition, TransitionGroup } from 'react-transition-group';
 // import { Route, Switch, Redirect, useLocation } from "react-router-dom";
+// Triggering redeployment on Vercel
+
 
 const App = () => {
     // Accessing the theme from the Redux store
